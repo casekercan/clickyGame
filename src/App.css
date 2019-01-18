@@ -1,5 +1,57 @@
-.title {
-  width: 100%;
-  text-align: center;
+body {
+  background: #4DCCBD;
+
+}
+
+.jumbotron {
+  background: #4C5454;
+  color:#D6FFF6;
+  margin: 0px;
+
+}
+
+h1 {
+  font-family: 'Comfortaa', cursive;
+
+}
+
+p {
+  font-family: 'Comfortaa', cursive;
+
+}
+
+.lead {
+  padding: 10px;
+  font-size: 25px;
+  margin: 10px;
+}
+
+.navbar {
+  background: #D6FFF6;
+  color: #4C5454;
+  padding: 20px;
+  font-size: 20px;
+  margin-bottom: 40px;
+  font-family: 'Comfortaa', cursive;
+
+}
+
+p{
+  margin: 0;
+}
+
+button {
+  margin: 5px;
+  background: #FF715B;
+}
+
+
+img {
+  height: 200px;
+  width: auto;
+  margin: 5px;
+}
+
+.images {
   margin-bottom: 50px;
 }
